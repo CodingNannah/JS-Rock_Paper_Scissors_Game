@@ -22,3 +22,5 @@ https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
 
 Thank you, Dave! 
 I look forward to learning more.
+
+AUTHOR Diana Barber Github: https://github.com/CodingNannah
